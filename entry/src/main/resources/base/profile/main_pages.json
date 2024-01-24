@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/SplashScreenPage",
+    "pages/MainPage",
+    "pages/ImagePage",
+    "pages/TaskPage",
+    "pages/ListPage",
+    "pages/StatePage",
+    "pages/PropPage"
+  ]
+}
