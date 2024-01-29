@@ -6,6 +6,7 @@
     "pages/TaskPage",
     "pages/ListPage",
     "pages/StatePage",
-    "pages/PropPage"
+    "pages/PropPage",
+    "pages/AnimationPage"
   ]
 }
