@@ -22,7 +22,8 @@ struct MainPage {
     new PageBean('pages/StatePage','视图更新案例'),
     new PageBean('pages/TaskPage','任务列表案例'),
     new PageBean('pages/PropPage','单双向同步更新案例'),
-    new PageBean('pages/AnimationPage','动画案例')
+    new PageBean('pages/AnimationPage','动画案例'),
+    new PageBean('pages/YGAnimationPage','遥感动画案例')
   ]
   build() {
     Row() {
