@@ -6,3 +6,4 @@
 * 'pages/TaskPage','任务列表案例'
 * 'pages/PropPage','单双向同步更新案例'
 * 'pages/AnimationPage','动画案例'
+* 'pages/YGAnimationPage','遥感动画案例'
